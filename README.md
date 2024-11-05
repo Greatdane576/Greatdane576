@@ -1,6 +1,6 @@
 <h1>Hi, I'm Stefan!  <a href="https://www.linkedin.com/in/stefan-laage/">UX Researcher & Aspiring Cybersecurity Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projectrs</b>
   - [Creating a live SOC / Honeypot in Azure]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Greatdane576/Cloud-SOC)
