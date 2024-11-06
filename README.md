@@ -1,4 +1,6 @@
-<h1>Hi, I'm Stefan!  <a href="https://www.linkedin.com/in/stefan-laage/">UX Researcher & Cybersecurity Professional</a>
+<h1>Hi, I'm Stefan! 
+  
+<a href="https://www.linkedin.com/in/stefan-laage/">UX Researcher & Cybersecurity Professional</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
@@ -10,10 +12,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="Stefan Laage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/stefan-laage/
+https://www.linkedin.com/in/stefan-laage/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
