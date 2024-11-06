@@ -3,7 +3,8 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projectrs</b>
-  - [Creating a live SOC / Honeypot in Azure]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Greatdane576/Cloud-SOC)
+  - [Creating a live SOC / Honeypot in Azure](https://github.com/Greatdane576/Cloud-SOC)
+  - [Creating a Honeypot + analysis in Splunk](https://github.com/Greatdane576/Cloud-SOC)
 
 
 
