@@ -6,7 +6,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projectrs</b>
   - [Creating a live SOC / Honeypot in Azure](https://github.com/Greatdane576/Cloud-SOC)
-  - [Creating a Honeypot + analysis in Splunk](https://github.com/Greatdane576/Cloud-SOC)
+  - [Creating a Honeypot + analysis in Splunk](work in progress) work in progress
 
 
 
