@@ -6,7 +6,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a live SOC / Honeypot in Azure](https://github.com/Greatdane576/Cloud-SOC)
-  - [Creating a Honeypot in Linus & Analysis with Splunk and OSINT](https://github.com/Greatdane576/Honeypot-Splunk)
+  - [Creating a Honeypot in Linux & Analysis with Splunk and OSINT](https://github.com/Greatdane576/Honeypot-Splunk)
 
 
 
