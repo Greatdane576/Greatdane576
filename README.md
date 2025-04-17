@@ -1,6 +1,6 @@
 <h1>Hi, I'm Stefan! 
   
-<a href="https://www.linkedin.com/in/stefan-laage/">UX Researcher & Aspiring Cybersecurity Professional</a>
+<a href="https://www.linkedin.com/in/stefan-laage/">UX Researcher & Cybersecurity Professional</a>
 
 <h2>👨‍💻 My Projects:</h2>
 
